@@ -1,6 +1,6 @@
 # viz ¿Pensado en comprar carro?
 
-La visualización: [link a Robo de vehículos](https://public.tableau.com/profile/yureimacv#!/vizhome/Robo_auntos_Colombia/Dashboard1?publish=yes)
+La visualización: [Robo de vehículos en Colombia](https://public.tableau.com/profile/yureimacv#!/vizhome/Robo_auntos_Colombia/Dashboard1?publish=yes)
 
 
 #FRAMEWORK TAMARA
