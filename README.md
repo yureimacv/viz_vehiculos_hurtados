@@ -58,3 +58,9 @@ Se tomaron los datos de la base publica Datos Abiertos:
   https://www.datos.gov.co/en/Seguridad-y-Defensa/Hurto-de-automotores-2017/ng7s-tz8p/data
   https://www.datos.gov.co/Seguridad-y-Defensa/Hurto-de-automotores-2018/q8g6-3xwv/data
   
+## TECNOLOGÍAS UTILIZADAS
+
+Tableau
+
+
+@Yureimacv
