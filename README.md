@@ -26,7 +26,7 @@ TAREAS SECUNDARIAS
   * Identificar la frecuencia de modalidad más frecuentes para la marca de un vehiculo. [IDENTIFY FEATURES]
   * Construir la variable que representa el total de los registros [DERIVE FEATURES]
   
-##HOW
+## HOW
   * Visualización: LINE CHART
     Diagrama con marcas de línea que representan el número de vehículos robados en cada año por mes. Se realiza la    representación de los meses (HORIZONTAL POSITION) y el número de registros de vehículos robados (VERTICAL POSITION) (ENCODE EXPRESS). Se plantea un FACET SUPERIMPOSE con característica diferenciadora basada en el COLOR HUE para cada uno de los años representados, este busca hacer la comparación 
   
