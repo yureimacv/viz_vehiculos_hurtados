@@ -8,13 +8,13 @@ La visualización: [Robo de vehículos en Colombia](https://public.tableau.com/p
 ## WHAT
 DATASET y ATRIBUTOS:
 El tipo de  es una TABLA TEMPORAL con los siguientes atributos:
-  ♣	Fecha: Atributo que describe la fecha de robo del vehículo. Tipo: Cuantitativa secuencial.
-  ♣	Marca: Referencia o marca del vehículo. Tipo: Categórica.
-  ♣	Modelo: Modelo del vehículo robado. Tipo: Categórica.
-  ♣	Municipio: Ciudad en donde se presentó el robo. Tipo: Categórica.
-  ♣	Color: Color del vehículo. Tipo: Categórica.
-  ♣	Número de registros: Atributo derivado que indica el total del número de registros. Cuantitativo – Secuencial.
-  ♣	Arma empleada: Modalidad en que se realizó el robo del vehículo. Tipo: Categórica.
+  * Fecha: Atributo que describe la fecha de robo del vehículo. Tipo: Cuantitativa secuencial.
+  * Marca: Referencia o marca del vehículo. Tipo: Categórica.
+  * Modelo: Modelo del vehículo robado. Tipo: Categórica.
+  * Municipio: Ciudad en donde se presentó el robo. Tipo: Categórica.
+  * Color: Color del vehículo. Tipo: Categórica.
+  * Número de registros: Atributo derivado que indica el total del número de registros. Cuantitativo – Secuencial.
+  * Arma empleada: Modalidad en que se realizó el robo del vehículo. Tipo: Categórica.
 
 ## WHY	
 TAREA PRINCIPAL	
